@@ -10,16 +10,19 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	We can check diferences and see if we have a single logical change before create a commit. We can reset files if this should be in a different commit or we can add more files until a single logical change is ready.
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches allow us to create a separate work from the master branch, that would be useful when you want to try something new in your code, or if you want to create a separate functionality and later add it to your main branch.
+
 
 
 How do the diagrams help you visualize the branch structure?
 
-
+	Diagrams help to have a global view about where are you, where is the branch and where is the master branch. So it is so useful in the day to day work life.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
